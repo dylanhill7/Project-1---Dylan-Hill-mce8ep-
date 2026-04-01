@@ -15,7 +15,9 @@ Link to Data Folder: https://myuva-my.sharepoint.com/:f:/g/personal/mce8ep_virgi
 
 Link to Pipeline Files: https://github.com/dylanhill7/Project-1-mce8ep/tree/main/Pipeline-Files
 
-Name of License and link to file in top level of the repository
+Name of License: mce8ep-LICENSE
+
+Link to License: 
 
 ## Problem Definition
 Initial general problem: Projecting athletic performance
