@@ -30,7 +30,7 @@ Motivation for the project: Sports analytics has been a big focus of my extracur
 
 Headline of press release: Rising Rakers and Aging Sluggers: Data-Driven Analysis of Top Breakout and Regression Candidates for the 2026 MLB Campaign (NL Edition)
 
-Link to press release: 
+Link to press release: https://github.com/dylanhill7/Project-1-mce8ep/blob/main/Press-Release.md
 
 ## Domain Exposition
 
